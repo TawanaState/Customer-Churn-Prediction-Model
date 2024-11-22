@@ -81,7 +81,7 @@ Ensure you have Python 3.7+ and the following libraries installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/TawanaState/customer-churn-prediction.git
    cd customer-churn-prediction
    ```
 
